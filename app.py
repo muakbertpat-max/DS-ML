@@ -15,3 +15,5 @@ elif st.button("😁การทำความสะอาด"):
     st.switch_page("pages/clean_app_muak.py")
 elif st.button("😘การทำความสะอาดและวิเคราะห์ข้อมูล"):
     st.switch_page("pages/clean_customers.py")    
+elif st.button("😁การแปลงข้อมูล"):
+    st.switch_page("pages/tranform_app.py")
