@@ -21,3 +21,5 @@ elif st.button("😁การวิเคราะห์ข้อมูลเช
     st.switch_page("pages/EDA_app.py")
 elif st.button("😁clustering segment"):
     st.switch_page("pages/clustering_segment.py")
+elif st.button("😁association items"):
+    st.switch_page("pages/association_itemst.py")
