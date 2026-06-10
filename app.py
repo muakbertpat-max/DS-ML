@@ -22,4 +22,4 @@ elif st.button("😁การวิเคราะห์ข้อมูลเช
 elif st.button("😁clustering segment"):
     st.switch_page("pages/clustering_segment.py")
 elif st.button("😁association items"):
-    st.switch_page("pages/association_itemst.py")
+    st.switch_page("pages/association_items.py")
